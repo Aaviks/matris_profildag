@@ -44,6 +44,7 @@ namespace Matrix
             {
                 Matrix22 matrixC = matrixA.Muliply(matrixB);
                 Draw2x2Matrix(matrixC.elements);
+                
             }
             if (input == 3)
             { 
